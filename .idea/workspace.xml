@@ -1,251 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08c71576-dc91-4cd7-b7bd-0505f8884d4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gifs/loadingAnimation.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/11848fc7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/15fa0356.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1c25a401.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1c376ac1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1c7ca083.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1cf3600d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/21bed354.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/2219f12c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/246de9fc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/2eb861e8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/31732928.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/3945fa79.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/41086839.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/43354224.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/43a58dca.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/45cd820e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/48e3f9e2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4a6bed35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4b771fab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4ebc8fa3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4efed8c2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/62d31a9a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/630a4b2e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/687a59f7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/68f67ca0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/773fa8e9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/7c0c1503.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/81c1716.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/83c78eb1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/848e298.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/861a510.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/8ce0e21e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/8dacbe3d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/956f1ffb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/97658b0b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/9836371e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/Path.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/ac9104b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-back-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-back-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-back-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-forward-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-forward-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-forward-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/b226da58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/b3d898a4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/c421b7d3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/c65f74d8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/cac99f71.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/cbed36c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-4-checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-4-unchecked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-5-checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-5-unchecked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/clear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/close-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d39e77a0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d4a027e2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d5dcacbb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d64068cb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/dbb5dacc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/dd2f0385.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-1-checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-1-unchecked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-2-checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-2-unchecked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/dummy-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/e130526a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/f51e2f13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/f7dce64d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/facebook-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/faf2ec71.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/fc574b40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/fca1e468.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/ibuy-button-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/magnifier.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/plus-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/question-mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-1-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-1-passive-alt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-1-passive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-2-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-2-passive-alt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-2-passive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-3-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-3-passive-alt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-3-passive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-4-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-4-passive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-back-off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-back-on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-switch-off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-switch-on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/trash-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/trash-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/trash-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/photo-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/photos/signin-facebook-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ClassibuyMobile.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/emacs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.watchmanconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App.test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/globalVariables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/home.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/ibuy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/inbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/preferences.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/11848fc7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/15fa0356.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/16d23616.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1c25a401.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1c376ac1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1c7ca083.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/1cf3600d.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/21bed354.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/2219f12c.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/246de9fc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/2eb861e8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/31732928.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/3945fa79.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/41086839.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/43354224.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/43a58dca.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/45cd820e.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/48e3f9e2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4a6bed35.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4b771fab.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4ebc8fa3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/4efed8c2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/62d31a9a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/630a4b2e.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/687a59f7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/68f67ca0.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/773fa8e9.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/7c0c1503.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/81c1716.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/83c78eb1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/848e298.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/861a510.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/8ce0e21e.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/8dacbe3d.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/956f1ffb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/97658b0b.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/9836371e.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/Path.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/ac9104b1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-back-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-back-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-back-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-forward-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-forward-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/arrow-forward-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/b226da58.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/b3d898a4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/c421b7d3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/c65f74d8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/cac99f71.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/camera.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/cbed36c.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-4-checked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-4-unchecked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-5-checked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/check-5-unchecked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/clear.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/close-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d39e77a0.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d4a027e2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d5dcacbb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/d64068cb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/dbb5dacc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/dd2f0385.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-1-checked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-1-unchecked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-2-checked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/delete-2-unchecked.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/dummy-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/e130526a.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/f51e2f13.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/f7dce64d.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/faf2ec71.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/fc574b40.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/fca1e468.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/ibuy-button-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/magnifier.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/plus-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/question-mark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-1-active.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-1-passive-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-1-passive.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-2-active.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-2-passive-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-2-passive.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-3-active.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-3-passive-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-3-passive.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-4-active.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/step-4-passive.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-back-off.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-back-on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-switch-off.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/toggle-switch-on.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/trash-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/trash-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/trash-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logos/classibuy-logo-dark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logos/classibuy-logo-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logos/ibuy-button-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+    <list default="true" id="08c71576-dc91-4cd7-b7bd-0505f8884d4c" name="Default" comment="Initial Commit.">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/actions/README.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/actions/applicationStateActions.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/actions/categoryActions.js" />
@@ -329,7 +85,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/runtime.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/user.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -966,12 +721,27 @@
       <workItem from="1529435045660" duration="81886000" />
       <workItem from="1531323993258" duration="22270000" />
       <workItem from="1531775240470" duration="186000" />
-      <workItem from="1531783120571" duration="14965000" />
+      <workItem from="1531783120571" duration="15241000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit.">
+      <created>1531933044732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531933044732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit - Part 2.">
+      <created>1531933110306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531933110306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212011000" />
+    <option name="totallyTimeSpent" value="212287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="6" />
@@ -1003,6 +773,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit." />
+    <MESSAGE value="Initial Commit - Part 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit - Part 2." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
