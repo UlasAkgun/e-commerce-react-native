@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <linearGradient id="inbox-icon-selected-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF9833"/>
+      <stop offset="100%" stop-color="#EB6A2F"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#inbox-icon-selected-a)" fill-rule="evenodd" d="M0,4 L0,21.187 L25,21.187 L24.976,4 L0,4 Z M4.25666614,6.48452678 L20.7383339,6.48452678 L12.4999253,13.064 L4.25666614,6.48452678 Z M22.4141886,8.77 L22.4141886,18.6046337 L2.58481136,18.6046337 L2.58481136,8.77 L12.4999852,16.7114546 L22.4141886,8.77 Z"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="34" viewBox="0 0 59 34">
+  <defs>
+    <linearGradient id="toggle-back-on-a" x1="50%" x2="50%" y1="0%" y2="99.96%">
+      <stop offset="0%" stop-color="#35475E"/>
+      <stop offset="99.96%" stop-color="#5E80A8"/>
+    </linearGradient>
+    <rect id="toggle-back-on-b" width="57" height="32" rx="16"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <use fill="url(#toggle-back-on-a)" xlink:href="#toggle-back-on-b"/>
+    <rect width="57.5" height="32.5" x="-.25" y="-.25" stroke="#35475E" stroke-width=".5" rx="16.25"/>
+  </g>
+</svg>
